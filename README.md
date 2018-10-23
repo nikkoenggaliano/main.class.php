@@ -1,2 +1,3 @@
 # main.class.php
-PHP Main Classs
+PHP Main Class untuk kebutuhan Pribadi
+
